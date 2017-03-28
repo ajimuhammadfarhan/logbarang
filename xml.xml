@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE logbarang SYSTEM "logbarang.dtd">
+<logbarang>
+<barang>
+<kode>Kode</kode>
+<satuan>Satuan</satuan>
+<harga cur="nmtoken">Harga</harga>
+<asal>
+ <pt>ladyrock</pt>
+ <kodewil>10</kodewil>
+</asal>
+<tujuan>
+ <pt>union</pt>
+ <kodewil>1001</kodewil>
+</tujuan>
+</barang>
